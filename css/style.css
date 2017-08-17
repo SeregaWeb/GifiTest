@@ -1,0 +1,51 @@
+.main {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.header {
+    background-color: rgb(24, 24, 26);
+}
+
+.image_logo {
+    width: 200px;
+    height: 100px;
+}
+
+.content_ch {
+    background-color: rgb(24, 24, 26);
+}
+
+#input_s {
+    margin-top: 30px;
+    width: 100%;
+    height: 40px;
+    padding-left: 20px;
+}
+
+img.image_c {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    height: 250px;
+    display: none;
+}
+
+div.not_found_conteiner {
+    padding: 0;
+}
+
+.not_found_img {
+    width: 100%;
+}
+
+.not_found_span {
+    position: absolute;
+    color: red;
+    font-size: 5vw;
+    top: 40%;
+    bottom: 50%;
+    left: 35%;
+    right: 30%;
+}
